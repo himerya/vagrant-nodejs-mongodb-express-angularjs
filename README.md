@@ -5,7 +5,7 @@ Vagrant configuration with puppet to create a Virtual Box machine with Ubuntu Se
 Installation:
 Install Vagrant 1.2.2
 Install Virtual Box 4.2.12
-Clone the repository <strong>git clone git://github.com/joaquimserafim/vagrant-nodejs-redis-mongodb.git</strong>
+Clone the repository <strong>git clone git@github.com:himerya/vagrant-nodejs-mongodb-express-angularjs.git</strong>
 
 Run - vagrant up<br>
 SSH - vagrant ssh<br>
